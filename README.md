@@ -1,2 +1,2 @@
-# Quizegame
-Quize_game using C Program
+# Quizgame
+Quiz_game using C Program
